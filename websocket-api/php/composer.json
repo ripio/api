@@ -1,0 +1,11 @@
+{
+    "name": "ripio/websocket-api-example",
+    "description": "Ripio Trade WebSocket API Example in PHP",
+    "require": {
+        "php": ">=8.3",
+        "vlucas/phpdotenv": "^5.6",
+        "ratchet/pawl": "^0.4.1",
+        "react/event-loop": "^1.5",
+        "react/socket": "^1.15"
+    }
+}
